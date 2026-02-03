@@ -69,14 +69,15 @@ The project is ready for:
 ---
 
 ## 6. Repository Structure
+```
   ViMSTox/
     ├── crawled_data/ # Crawled educational queries and titles
-    ├── data/ # Processed datasets and train/test splits
-    ├── surveys/ # Survey instruments and reviewed survey data
-    ├── index.html # Survey interface
-    ├── thanks.html # Survey completion page
-    ├── README.md # Project documentation
-
+    ├── data/         # Processed datasets and train/test splits
+    ├── surveys/      # Survey instruments and reviewed survey data
+    ├── index.html    # Survey interface
+    ├── thanks.html   # Survey completion page
+    ├── README.md     # Project documentation
+```
 ---
 
 ## 7. Ethical Considerations

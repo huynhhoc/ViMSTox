@@ -120,6 +120,6 @@ If you use or extend this dataset, please cite the corresponding research work a
 For academic inquiries or collaboration:
 
 **Dr. Huynh Thai Hoc**  
-Faculty of Information Technology  
-University of Industry and Trade, Vietnam
-Email: hocht@huit.edu.vn
+Faculty of Data Science in Business
+Ho Chi Minh University of Banking, Vietnam
+Email: hocht@hub.edu.vn
